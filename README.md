@@ -186,10 +186,6 @@ Root Directory should be left empty.
 ---
 
 ## 👨‍💻 Author
-Made with ❤️ by **Swastik Jha**
+Made By 
+Swastik Jha
 ---
-
-## ⭐ Support
-
-If you like this project, consider giving it a star on GitHub.
-```
